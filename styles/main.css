@@ -1,9 +1,7 @@
 h1{
-    color: rgb(240, 3, 3);
+    color: white;
     font-size: 56px;
     text-align: center;
-    background-color: rgb(42, 73, 73);
-    font-family: 'Qwitcher Grypen', cursive;
 }
 
 button{
@@ -21,7 +19,7 @@ html, body{
 }
 
 body{
-    background-image: url("../image/bg.jpg");
+    background-image: url("../image/gpu_bg.jpg");
     background-attachment: fixed;
     background-size: cover;
 }
